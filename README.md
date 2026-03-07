@@ -10,6 +10,10 @@ Typed history helpers for Chrome extensions. Part of @zovo/webext.
 ## Installation
 
 ```bash
+npm install @anthropic/webext-history
+```
+
+```bash
 pnpm add @anthropic/webext-history
 ```
 
