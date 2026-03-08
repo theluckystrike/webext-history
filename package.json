@@ -1,7 +1,7 @@
 {
   "name": "@anthropic/webext-history",
   "version": "1.0.0",
-  "description": "Typed history helpers for Chrome extensions",
+  "description": "Typed history helpers for Chrome extensions. Part of @zovo/webext.",
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -31,7 +31,12 @@
     "chrome-extension",
     "history",
     "browser-history",
-    "webext"
+    "typescript",
+    "webextension",
+    "browser-extension",
+    "manifest-v3",
+    "chrome-history",
+    "browsing-history"
   ],
   "author": "",
   "license": "MIT",
